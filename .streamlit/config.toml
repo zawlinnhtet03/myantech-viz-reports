@@ -4,3 +4,6 @@ base = "light"
 [server]
 enableCORS = false
 enableXsrfProtection = false
+
+[browser]
+showUserAvatar = false
